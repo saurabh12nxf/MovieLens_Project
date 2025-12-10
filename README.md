@@ -83,7 +83,7 @@ conda install -c conda-forge scikit-surprise pandas numpy scikit-learn matplotli
 
 ## 📂 Repository Structure
 
-```text
+
 ├── data/                   # Raw CSV files (ratings.csv, movies.csv)
 ├── notebooks/              # The Core Project Files
 │   ├── 01_eda_and_knn.ipynb   # Part 1: Data Analysis & Baseline Model
