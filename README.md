@@ -5,7 +5,7 @@
 ![Library](https://img.shields.io/badge/Library-Scikit_Learn-green)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YaHY4TI-8qcVxMRne6T1vk8Apgsq2ryv?usp=sharing)
+Check it out!   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YaHY4TI-8qcVxMRne6T1vk8Apgsq2ryv?usp=sharing)
 
 A personalized movie recommendation engine designed to solve user **"Choice Paralysis"** by filtering content based on latent user tastes rather than just global popularity. This project compares a **Memory-Based (kNN)** approach against a **Model-Based (SVD)** approach.
 
